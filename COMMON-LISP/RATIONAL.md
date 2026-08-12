@@ -1,0 +1,8 @@
+RATIONAL
+---
+
+### FUNCTION
+
+RATIONAL produces a rational number for any real numeric argument. This is
+  more efficient than RATIONALIZE, but it assumes that floating-point is
+  completely accurate, giving a result that isn't as pretty.

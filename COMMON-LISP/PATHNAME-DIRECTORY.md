@@ -1,0 +1,6 @@
+PATHNAME-DIRECTORY
+---
+
+### FUNCTION
+
+Return PATHNAME's directory.

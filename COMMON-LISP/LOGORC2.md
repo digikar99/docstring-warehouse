@@ -1,0 +1,6 @@
+LOGORC2
+---
+
+### FUNCTION
+
+Bitwise OR INTEGER1 with (LOGNOT INTEGER2).

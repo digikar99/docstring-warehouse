@@ -1,0 +1,8 @@
+CLOSE
+---
+
+### FUNCTION
+
+Close the given STREAM. No more I/O may be performed, but
+  inquiries may still be made. If :ABORT is true, an attempt is made
+  to clean up the side effects of having created the stream.

@@ -1,0 +1,6 @@
+UNUSE-PACKAGE
+---
+
+### FUNCTION
+
+Remove PACKAGES-TO-UNUSE from the USE list for PACKAGE.

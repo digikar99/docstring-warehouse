@@ -1,0 +1,6 @@
+REMOVE-FROM-PLISTF
+---
+
+### FUNCTION
+
+Modify macro for REMOVE-FROM-PLIST.

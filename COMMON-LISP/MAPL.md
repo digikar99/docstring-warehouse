@@ -1,0 +1,7 @@
+MAPL
+---
+
+### FUNCTION
+
+Apply FUNCTION to successive tuples of CDRs of LIST and MORE-LISTS.
+Return LIST.

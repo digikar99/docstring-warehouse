@@ -1,0 +1,6 @@
+WITH-UNIQUE-NAMES
+---
+
+### FUNCTION
+
+Alias for WITH-GENSYMS.

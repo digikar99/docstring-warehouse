@@ -1,0 +1,6 @@
+DELETE-FROM-PLISTF
+---
+
+### FUNCTION
+
+Modify macro for DELETE-FROM-PLIST.

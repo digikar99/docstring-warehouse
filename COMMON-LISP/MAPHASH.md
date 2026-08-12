@@ -1,0 +1,21 @@
+MAPHASH
+---
+
+### FUNCTION
+
+For each entry in HASH-TABLE, call the designated two-argument function on
+the key and value of the entry. Return NIL.
+
+Consequences are undefined if HASH-TABLE is mutated during the call to
+MAPHASH, except for changing or removing elements corresponding to the
+current key. The applies to all threads, not just the current one --
+even for synchronized hash-tables. If the table may be mutated by
+another thread during iteration, use eg. SB-EXT:WITH-LOCKED-HASH-TABLE
+to protect the MAPHASH call.
+
+Example:
+
+(maphash (lambda (key value)
+           (format t "key is: ~a, value is: ~a~&" key value))
+         (dict :a 'one))
+;; => key is: A, value is: ONE

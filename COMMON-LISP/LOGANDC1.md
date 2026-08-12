@@ -1,0 +1,6 @@
+LOGANDC1
+---
+
+### FUNCTION
+
+Bitwise AND (LOGNOT INTEGER1) with INTEGER2.

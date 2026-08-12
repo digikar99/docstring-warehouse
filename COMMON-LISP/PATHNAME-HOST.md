@@ -1,0 +1,6 @@
+PATHNAME-HOST
+---
+
+### FUNCTION
+
+Return PATHNAME's host.

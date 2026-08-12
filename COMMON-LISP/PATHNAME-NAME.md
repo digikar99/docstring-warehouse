@@ -1,0 +1,6 @@
+PATHNAME-NAME
+---
+
+### FUNCTION
+
+Return PATHNAME's name.

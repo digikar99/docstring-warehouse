@@ -1,0 +1,6 @@
+PATHNAME-TYPE
+---
+
+### FUNCTION
+
+Return PATHNAME's type.

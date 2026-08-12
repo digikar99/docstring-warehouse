@@ -1,0 +1,6 @@
+PATHNAME-VERSION
+---
+
+### FUNCTION
+
+Return PATHNAME's version.

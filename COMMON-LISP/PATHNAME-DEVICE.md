@@ -1,0 +1,6 @@
+PATHNAME-DEVICE
+---
+
+### FUNCTION
+
+Return PATHNAME's device.
