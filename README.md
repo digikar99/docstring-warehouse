@@ -6,6 +6,8 @@ System used by [docstring-harvester](https://codeberg.org/digikar/docstring-harv
 Each sub-directory in the current directory corresponds to a lisp package. They may
 have sub-sub-directories corresponding to \"sub\" packages. Finally, the leaves are markdown files which map the third-level heading (eg. function, class, type, etc) to the docstring.
 
-Related projects:
+Huge credits for existing projects!
 
+- [metaspec](https://metaspec.dev)
 - [more-docstrings](https://github.com/ciel-lang/more-docstrings)
+
